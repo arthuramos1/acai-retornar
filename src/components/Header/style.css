@@ -1,0 +1,26 @@
+header section {
+	width: 90vw;
+	max-width: 600px;
+	background-color: white;
+
+	position: absolute;
+	top: 12vh;
+}
+
+header section p {
+	color: rgb(114, 114, 114);
+}
+
+.divider {
+	height: 2px;
+	width: 100%;
+	background-color: rgb(231, 231, 231);
+}
+
+.header__sorvetes {
+	width: 100%;
+	height: 24vh;
+	background-image: url("https://blog.finamac.com/wp-content/uploads/2019/06/287027-conheca-aqui-x-dicas-para-inovar-no-sorvete-de-casquinha.jpg");
+	background-position: 50% 30%;
+    background-repeat: no-repeat;
+}

@@ -1,0 +1,27 @@
+.modal__cover {
+	position: absolute;
+	top: 0;
+	height: 100vh;
+	width: 100vw;
+	background-color: rgba(29, 29, 29, 0.65);
+}
+
+.cover {
+	position: absolute;
+	height: 100vh;
+	width: 100vw;
+	background-color: rgba(29, 29, 29, 0.65);
+}
+
+.divider {
+	height: 2px;
+	width: 100%;
+	background-color: rgb(231, 231, 231);
+}
+
+.cover__optionals {
+	width: 100%;
+	height: 100%;
+	/* background-color: rgba(29, 29, 29, 0.65); */
+	top: 0;
+}
